@@ -2,3 +2,6 @@
 
 
 [code](progles/Assets/Scripts/PlayerScore.cs)
+
+
+Ik heb een Unity-script gemaakt dat de score bijhoudt, munten verzamelt en een win-bericht toont zodra de speler 50 punten bereikt.
